@@ -29,12 +29,32 @@ Every DeFAI (DeFi + AI) agent needs an LLM, but generic models fail to capture o
 - **Finetuning Data**: 200M+ on-chain interactions (DEX trades, NFT mints, memecoins)  
 - **Task Focus**: Token analytics, agent reasoning, risk modeling  
 
-### 2. **Real-World Utility: PVPAI Score**  
+### 2. **Real-World Utility: PVPAI Score & Beyond**
 **[Try Beta](https://t.me/PvpAiBot) | [Demo Video](https://drive.google.com/file/d/19P1DB968LHRpoLDCnzQmYrqy6y1oHowq/view)**  
+
+### 🔥 **Current Use Case**  
 Input any token CA → AI generates:  
 - **6-Dimensional Analysis**: Liquidity, holder behavior, meme virality, and more  
 - **200+ Metrics Scanned**: From rug risk to community sentiment  
 - **Actionable Reports**: For degens, builders, and protocols  
+
+### 🚀 **Future Roadmap**  
+**PVPAI LLM will power:**  
+- 🤖 **AI-Driven DEX Aggregator**:  
+  *"Uniswap meets ChatGPT"* — Swap tokens via natural language commands.  
+- 🛠️ **DeFi Agent Marketplace**:  
+  Deploy AI agents for yield farming, airdrop hunting, or meme狙击.  
+- 🧪 **Onchain Prediction Engine**:  
+  Simulate token trajectories based on whale activity + social sentiment.  
+
+### 🌐 **Open-Source LLM Chain**  
+PVPAI LLM isn’t just a model — **it’s a decentralized protocol**.  
+- **For Developers**:  
+  Fork, retrain, or plug into your DeFAI dApps.  
+- **For Researchers**:  
+  Contribute to the onchain data corpus and earn $PVPAI incentives.  
+- **For Protocols**:  
+  Become a node in the LLM Chain (AI consensus meets Proof-of-Training).  
 
 ---
 
